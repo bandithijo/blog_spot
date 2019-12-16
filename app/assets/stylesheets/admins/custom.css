@@ -1,0 +1,21 @@
+h1,h2 {
+  color: #c52f24;
+}
+
+div {
+  margin: 5px;
+}
+
+a {
+  color: #c52f24;
+  text-decoration: none;
+  border-bottom: 1px dotted #c52f24;
+}
+
+nav {
+  margin: 5px;
+}
+
+.active {
+  font-weight: bold;
+}
