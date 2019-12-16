@@ -1,24 +1,13 @@
-# README
+# BLOG_SPOT
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Prerequisite
 
-Things you may want to cover:
+`Ruby 2.6.3` `Rails 5.2.4` `PostgreSQL 11.5`
 
-* Ruby version
+## Gemlist
 
-* System dependencies
+`devise 4.7.1`
 
-* Configuration
+## Project apa ini?
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ini adalah project percontohan untuk artikel ["Membuat User dan Admin Terpisah pada Rails"](https://bandithijo.com/blog/user-dan-admin-terpisah-pada-rails).
